@@ -1,0 +1,11 @@
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+
+  overflow: hidden;
+} 

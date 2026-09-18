@@ -1,8 +1,15 @@
-# React + Vite
+# Medical
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page and authentication flow for a medical services platform.
 
-Currently, two official plugins are available:
+- Marketing landing with navigation and layered hero sections
+- Combined login / registration screen behind a single `Authentficate` route
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Stack
+
+React · Vite · Tailwind CSS — configured for Vercel deployment (`vercel.json`)
+
+```bash
+npm install
+npm run dev
+```
